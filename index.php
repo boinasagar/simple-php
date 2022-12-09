@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to PHP testing pipeline";
+echo "Welcome to PHP";
 ?>
